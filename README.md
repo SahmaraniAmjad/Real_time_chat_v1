@@ -1,1 +1,1 @@
-# chat_application_socket.io_nodejs
+# A simple Chat Application using socket.io and nodejs.
