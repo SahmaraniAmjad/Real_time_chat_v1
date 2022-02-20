@@ -1,0 +1,26 @@
+#wrapper {
+    width: 500px;
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+
+
+#message-container {
+  width: 40%;
+  height: 50%;
+  background-color: antiquewhite;
+  margin-top: 1rem;
+}
+
+
+#send-button {
+  width: 50px;
+  height: 25px;
+  margin-top: 0.8rem;
+  font-size: 0.9rem;
+  background-color: antiquewhite;
+  
+}
+
+#message-input {
+  border-radius: 8px;
+}
